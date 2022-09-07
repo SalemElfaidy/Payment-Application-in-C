@@ -1,0 +1,6 @@
+F:/Faculty/Embedd Course/Payment Application -in C - FWD/cmake-build-debug/CMakeFiles/Card.dir
+F:/Faculty/Embedd Course/Payment Application -in C - FWD/cmake-build-debug/CMakeFiles/Payment_Application__in_C___FWD.dir
+F:/Faculty/Embedd Course/Payment Application -in C - FWD/cmake-build-debug/CMakeFiles/Terminal.dir
+F:/Faculty/Embedd Course/Payment Application -in C - FWD/cmake-build-debug/CMakeFiles/Server.dir
+F:/Faculty/Embedd Course/Payment Application -in C - FWD/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Faculty/Embedd Course/Payment Application -in C - FWD/cmake-build-debug/CMakeFiles/rebuild_cache.dir

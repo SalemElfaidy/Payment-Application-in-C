@@ -1,0 +1,21 @@
+# ninja log v5
+53	1203	6796561034328647	CMakeFiles/Payment_Application__in_C___FWD.dir/Server/server.c.obj	16e490eab9aa392f
+1	160	6796568075267286	CMakeFiles/Server.dir/Server/server.c.obj	560f707370c04220
+23	1209	6796561034198659	CMakeFiles/Payment_Application__in_C___FWD.dir/Server/Database/file_handling.c.obj	1540888c31f43a3c
+279	485	6796581990120735	Terminal.exe	3a913a9850c05121
+2	1210	6796561034648636	CMakeFiles/Payment_Application__in_C___FWD.dir/Card/card.c.obj	43fea52351134450
+7	154	6796574975966244	CMakeFiles/Payment_Application__in_C___FWD.dir/Application/app.c.obj	75d4f7022f2f171f
+5	279	6796581988127086	CMakeFiles/Terminal.dir/Terminal/terminal.c.obj	2ba24b46f9be51d
+59	1216	6796561034878648	CMakeFiles/Payment_Application__in_C___FWD.dir/Terminal/terminal.c.obj	48fbe63d3dc93298
+161	660	6796568077037272	Server.exe	ef51ce6c7a58e2f9
+14	269	6796581988007038	CMakeFiles/Terminal.dir/Card/card.c.obj	c2ccac804333c69c
+4	229	6796582894589898	CMakeFiles/Payment_Application__in_C___FWD.dir/Application/app.c.obj	75d4f7022f2f171f
+15	237	6796582894629920	CMakeFiles/Payment_Application__in_C___FWD.dir/Card/card.c.obj	5fdd7ffe5ce140f8
+20	242	6796582894779897	CMakeFiles/Payment_Application__in_C___FWD.dir/Server/server.c.obj	c63ab261d0f1f503
+10	243	6796582894839923	CMakeFiles/Payment_Application__in_C___FWD.dir/Terminal/terminal.c.obj	d628aecef99b8891
+243	404	6796582896451725	Payment_Application__in_C___FWD.exe	e91e1a99ac3ba091
+8	242	6796620481983359	CMakeFiles/Payment_Application__in_C___FWD.dir/Terminal/terminal.c.obj	d628aecef99b8891
+19	249	6796620481903370	CMakeFiles/Payment_Application__in_C___FWD.dir/Server/server.c.obj	c63ab261d0f1f503
+14	250	6796620481953365	CMakeFiles/Payment_Application__in_C___FWD.dir/Card/card.c.obj	5fdd7ffe5ce140f8
+1	250	6796620481793392	CMakeFiles/Payment_Application__in_C___FWD.dir/Application/app.c.obj	75d4f7022f2f171f
+251	426	6796620483863330	Payment_Application__in_C___FWD.exe	e91e1a99ac3ba091

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Payment_Application__in_C___FWD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Card::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Card-Debug-b60b5f8dbdd1ebfd4ace.json",
+					"name" : "Card",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Payment_Application__in_C___FWD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Payment_Application__in_C___FWD-Debug-3ace29728ede18669afb.json",
+					"name" : "Payment_Application__in_C___FWD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Server-Debug-874cbff5608fb5526f02.json",
+					"name" : "Server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Terminal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Terminal-Debug-19e715f101f1341d0c0e.json",
+					"name" : "Terminal",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Faculty/Embedd Course/Payment Application -in C - FWD/cmake-build-debug",
+		"source" : "F:/Faculty/Embedd Course/Payment Application -in C - FWD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
